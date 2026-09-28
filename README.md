@@ -12,7 +12,9 @@ I study how **hearing, speech, and language** relate to **cognitive ageing and e
 
 #### 🧠 Projects
 
-🚧 **Coming soon:** an open-data EEG pipeline for ageing and dementia: Sleep-EDF preprocessing → resting-state EEG in Alzheimer's disease, frontotemporal dementia, and healthy controls (OpenNeuro ds004504). *Python · MNE*
+| Project | What it does | Stack |
+|---|---|---|
+| [ageing-sleep-dementia-eeg](https://github.com/amy95031/ageing-sleep-dementia-eeg) 🚧 | Open-data EEG pipeline (in progress): Sleep-EDF preprocessing → resting-state EEG in Alzheimer's disease, frontotemporal dementia, and healthy controls (OpenNeuro ds004504) | Python · MNE · uv |
 
 #### 📄 Publications
 
