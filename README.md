@@ -19,22 +19,12 @@
 
 ### 👩‍🔬 About me
 
-```python
-class Researcher:
-    name       = "Chia-Yu (Millie) Liu"
-    question   = "How do hearing, speech and language changes reveal early dementia?"
-    methods    = ["EEG / auditory ERP (MMN)", "real-world clinical data (TriNetX)",
-                  "dose-response meta-analysis", "cohort studies"]
-    background = {
-        "M.S.":     "Speech-Language Pathology, Asia University",
-        "B.S.":     "Psychology, National Tsing Hua University",
-        "visiting": "Communication Sciences & Disorders, UW–Madison (2023–24)",
-        "training": ["UCLA BioMed × Quantum Elite Program (2026)",
-                     "Johns Hopkins Cochlear Center Fellows Program"],
-    }
-    languages  = ["Mandarin", "English", "Taiwanese", "Taiwanese Sign Language (basic)"]
-    next_step  = "PhD, 2027"
-```
+I study how changes in **hearing, speech, and language** can reveal the earliest signs of **dementia**. My work combines objective brain measures (EEG and auditory ERPs such as the MMN) with large real-world clinical databases and meta-analysis. I'm starting a PhD in 2027.
+
+- 🎓 **M.S.** Speech-Language Pathology, Asia University · **B.S.** Psychology, National Tsing Hua University
+- 🌎 Visiting Research Scholar, Communication Sciences & Disorders, UW–Madison (2023–24)
+- 🧪 UCLA Biomedical Engineering × Quantum Science Elite Program (2026) · Johns Hopkins Cochlear Center Fellows Program
+- 💬 Mandarin · English · Taiwanese · Taiwanese Sign Language (basic)
 
 ### 🔭 Currently building
 
