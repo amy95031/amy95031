@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://orcid.org/0000-0002-3017-9916"><img src="https://img.shields.io/badge/ORCID-0000--0002--3017--9916-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://www.linkedin.com/in/millieliu-041858135"><img src="https://img.shields.io/badge/LinkedIn-Millie%20Liu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:amy95031@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mipix66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
