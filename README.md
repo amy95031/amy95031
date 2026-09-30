@@ -84,6 +84,23 @@ I study how changes in **hearing, speech, and language** can reveal the earliest
   <sub>8 posters + 1 oral talk · WCAP 2026 · ICED 2025 · ASHA 2024 · ICP 2024 · APA 2023 — <a href="https://amy95031.github.io/conference-posters/"><b>open the interactive gallery →</b></a></sub>
 </p>
 
+### 🏆 Honors & certifications
+
+<p>
+  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/2026-UCLA%20BME%20%C3%97%20Quantum%20Elite%20Program-C9702A?style=flat-square" alt="UCLA" /></a>
+  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/2023-MOE%20Taiwan%20Scholarship-C9702A?style=flat-square" alt="MOE scholarship" /></a>
+  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/2019-National%20Champion%2C%20Sign%20Language%20Song-C9702A?style=flat-square" alt="Sign language" /></a>
+  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/2017-Best%20Oral%20Presentation%2C%20Kanagawa-C9702A?style=flat-square" alt="Kanagawa" /></a>
+</p>
+<p>
+  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/Harvard%20Medical%20School-Clinical%20Care%20for%20Autistic%20Adults-A51C30?style=flat-square" alt="Harvard" /></a>
+  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/Johns%20Hopkins-Aging%2C%20Hearing%20%26%20Public%20Health%20Fellow-002D72?style=flat-square" alt="JHU" /></a>
+  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/MoCA-Certified%20Rater-1B75BB?style=flat-square" alt="MoCA" /></a>
+  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/Google-Gemini%20Certified%20Educator-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" /></a>
+  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/UW%E2%80%93Madison-Visiting%20Student%202023%E2%80%9324-C5050C?style=flat-square" alt="UW-Madison" /></a>
+</p>
+<sub>Every badge links to the <a href="https://amy95031.github.io/honors-certifications/"><b>certificate wall →</b></a> with the original certificates.</sub>
+
 ### 🛠️ Toolbox
 
 <p>
