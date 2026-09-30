@@ -81,7 +81,7 @@ I study how changes in **hearing, speech, and language** can reveal the earliest
     <img src="https://raw.githubusercontent.com/amy95031/conference-posters/main/gallery-preview.gif" alt="Conference poster gallery" width="720" />
   </a>
   <br/>
-  <sub>ICED 2025 Rome · ASHA 2024 Seattle · ICP 2024 Prague — <a href="https://amy95031.github.io/conference-posters/"><b>open the interactive gallery →</b></a></sub>
+  <sub>WCAP 2026 Sapporo · ICED 2025 Rome · ASHA 2024 Seattle · ICP 2024 Prague — <a href="https://amy95031.github.io/conference-posters/"><b>open the interactive gallery →</b></a></sub>
 </p>
 
 ### 🛠️ Toolbox
