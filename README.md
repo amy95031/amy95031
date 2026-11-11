@@ -1,134 +1,27 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chia-Yu%20(Millie)%20Liu&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Hearing%20%C2%B7%20Language%20%C2%B7%20Cognitive%20Ageing&descAlignY=58&descSize=18&animation=fadeIn" alt="Chia-Yu (Millie) Liu" width="100%" />
-</p>
+# Chia-Yu (Millie) Liu
 
-<p align="center">
-  <a href="https://github.com/amy95031">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=2C8C99&center=true&vCenter=true&width=620&lines=Hearing+%26+Cognition+Researcher+%F0%9F%A7%A0;EEG+%C2%B7+Auditory+ERP+(MMN)+%C2%B7+Python%2FMNE;Real-world+clinical+data+%C2%B7+Meta-analysis;Looking+for+early+signs+of+dementia;Incoming+PhD+%E2%80%94+2027" alt="Typing SVG" />
-  </a>
-</p>
+I'm a Mandarin & English bilingual researcher who is also "multilingual" in research methods. I study how hearing loss relates to mental health and cognitive aging. I finished my M.S. in the Department of Audiology and Speech-Language Pathology at Asia University in January 2026, and I now work with the Department of Psychiatry at Chi Mei Medical Center.
 
-<p align="center">
-  <a href="https://orcid.org/0000-0002-3017-9916"><img src="https://img.shields.io/badge/ORCID-0000--0002--3017--9916-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://www.linkedin.com/in/millieliu-041858135"><img src="https://img.shields.io/badge/LinkedIn-Millie%20Liu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mipix66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+- Clinical insight and psychology. I trained in educational psychology at National Tsing Hua University and then in speech-language pathology. This taught me to see each patient as a whole person, not just a test score. My undergraduate thesis was on gelotophobia, the fear of being laughed at. Four years later I was co-first author of a meta-analysis of laughter therapy for depression and anxiety, in Journal of Psychiatric Research.
+- Neuroscience tools. As a research assistant I assisted with EEG and fMRI studies of humor and emotion, and tested participants in EEG and eye-tracking studies of aphasia.
+- Large-scale data analysis. I work on dose-response meta-analyses and TriNetX cohort studies, using R and Stata. My other 2026 papers look at cochlear implants, sleep medicines and falls in dementia, vitamin D for depression, and diabetes and weight-loss drugs in psychiatric patients.
 
----
+## Selected papers
 
-### 👩‍🔬 About me
+- Liu C-Y\*, Liu T-H\*, Huang C-W, Lai C-C, Lin C-H, Su K-P. Effects of laughter therapy on depression and anxiety: a dose-response meta-analysis with trial sequential analysis. *Journal of Psychiatric Research*. 2026;199:50-61. [doi:10.1016/j.jpsychires.2026.04.006](https://doi.org/10.1016/j.jpsychires.2026.04.006) (\*equal contribution)
+- Liu T-H, Chu C-C, Liu C-Y, Wu J-Y, Tsai Y-W, Chang H-A, Lai C-C. Risk of falls and delirium associated with dual orexin receptor antagonists versus benzodiazepines and Z-drugs in older adults with dementia. *Translational Psychiatry*. 2026. [doi:10.1038/s41398-026-04394-8](https://doi.org/10.1038/s41398-026-04394-8)
+- Kuo K-W, Liu T-H, Liu C-Y, Liu C-J. Effects of cochlear implants on depression, anxiety, and insomnia in adults with bilateral sensorineural hearing loss: a three-year retrospective cohort study of 8964 cochlear implant users. *Cochlear Implants International*. 2026;27(1):2-10. [doi:10.1080/14670100.2025.2602323](https://doi.org/10.1080/14670100.2025.2602323)
 
-I study how changes in **hearing, speech, and language** can reveal the earliest signs of **dementia**. My work combines objective brain measures (EEG and auditory ERPs such as the MMN) with large real-world clinical databases and meta-analysis. I'm starting a PhD in 2027.
+The full list is on [ORCID](https://orcid.org/0000-0002-3017-9916) and the [website](https://amy95031.github.io/publications.html).
 
-- 🎓 **M.S.** Speech-Language Pathology, Asia University · **B.S.** Psychology, National Tsing Hua University
-- 🌎 Visiting Research Scholar, Communication Sciences & Disorders, UW–Madison (2023–24)
-- 🧪 UCLA Biomedical Engineering × Quantum Science Elite Program (2026) · Johns Hopkins Cochlear Center Fellows Program
-- 💬 Mandarin · English · Taiwanese · Taiwanese Sign Language (basic)
+## Projects
 
-### 🔭 Currently building
+- [ageing-sleep-dementia-eeg](https://github.com/amy95031/ageing-sleep-dementia-eeg). A learning project that builds an EEG analysis pipeline in Python with MNE on open data (Sleep-EDF and OpenNeuro ds004504). Power spectra by sleep stage are in progress.
 
-<table>
-  <tr>
-    <td width="68%">
-      <a href="https://github.com/amy95031/ageing-sleep-dementia-eeg"><b>🧠 ageing-sleep-dementia-eeg</b></a><br/>
-      An open-data EEG pipeline, built level by level: Sleep-EDF sleep EEG across the lifespan → resting-state EEG in
-      <b>Alzheimer's disease</b>, <b>frontotemporal dementia</b> and healthy controls (OpenNeuro ds004504).
-      <br/><br/>
-      <img src="https://img.shields.io/badge/progress-level%201%20of%208-2C8C99?style=flat-square" alt="progress" />
-      <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/MNE--Python-1.13-1F5C99?style=flat-square" alt="MNE" />
-      <img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square" alt="MIT" />
-    </td>
-    <td width="32%">
-      <b>Roadmap</b><br/>
-      ✅ Load sleep EEG<br/>
-      ⬜ Hypnograms: young vs old<br/>
-      ⬜ Spectral power by stage<br/>
-      ⬜ Dementia EEG preprocessing<br/>
-      ⬜ Band power: AD / FTD / CN<br/>
-      ⬜ Stats + topographies<br/>
-      ⬜ AD vs CN classifier<br/>
-      ⬜ One-page summary
-    </td>
-  </tr>
-</table>
+## Working together
 
-### 📄 Selected publications
+I help clinicians, researchers and graduate students with the statistics of meta-analyses and cohort studies, part-time. I do not write theses or coursework, and I work with de-identified data only.
 
-<a href="https://orcid.org/0000-0002-3017-9916"><img src="https://img.shields.io/badge/peer--reviewed%20papers-5-2C8C99?style=flat-square" alt="papers" /></a>
-<img src="https://img.shields.io/badge/first--author-1-2C8C99?style=flat-square" alt="first author" />
-<img src="https://img.shields.io/badge/international%20conferences-5-2C8C99?style=flat-square" alt="conferences" />
+## Contact
 
-- 🧓 **Dementia · real-world data** — Liu, T. H., Chu, C. C., **Liu, C. Y.**, et al. (2026). Risk of falls and delirium associated with dual orexin receptor antagonists versus benzodiazepines and Z-drugs in older adults with dementia. *Translational Psychiatry*. [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41398--026--04394--8-blue?style=flat-square)](https://doi.org/10.1038/s41398-026-04394-8)
-- 👂 **Hearing · mental health** — Kuo, K. W., Liu, T. H., **Liu, C. Y.**, & Liu, C. J. (2026). Effects of cochlear implants on depression, anxiety, and insomnia in adults with bilateral sensorineural hearing loss: A three-year retrospective cohort study of 8964 cochlear implant users. *Cochlear Implants International*, 27(1), 2–10. [![DOI](https://img.shields.io/badge/DOI-10.1080%2F14670100.2025.2602323-blue?style=flat-square)](https://doi.org/10.1080/14670100.2025.2602323)
-- 📊 **Dose-response meta-analysis · first author** — **Liu, C. Y.**, Liu, T. H., Huang, C. W., Lai, C. C., Lin, C. H., & Su, K. P. (2026). Effects of laughter therapy on depression and anxiety: A dose-response meta-analysis with trial sequential analysis. *Journal of Psychiatric Research*, 199, 50–61. [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jpsychires.2026.04.006-blue?style=flat-square)](https://doi.org/10.1016/j.jpsychires.2026.04.006)
-
-<details>
-<summary><b>More publications</b></summary>
-<br/>
-
-- Liu, T. H., Lee, C. H., **Liu, C. Y.**, et al. (2026). Effectiveness of GLP-1RA vs metformin for diabetes prevention in antipsychotic-treated patients. *European Neuropsychopharmacology*, 110, 112853. [doi:10.1016/j.euroneuro.2026.112853](https://doi.org/10.1016/j.euroneuro.2026.112853)
-- Liu, H. H., Liu, T. H., **Liu, C. Y.**, et al. (2026). Efficacy of vitamin D supplementation in patients diagnosed with depression: A dose-response meta-analysis of randomized controlled trials. *Frontiers in Nutrition*, 13, 1772451. [doi:10.3389/fnut.2026.1772451](https://doi.org/10.3389/fnut.2026.1772451)
-- Chen, C. Y., Liu, H. T., **Liu, C. Y.**, & Andrews, J. F. (in press). "How much milk tea is in the tea bucket"? Case study of a Taiwanese deaf teacher in teaching primary arithmetic word problems. In G. Jones & J. F. Andrews (Eds.), *Literacies in Asian Deaf Communities*. Gallaudet University Press.
-
-</details>
-
-### 🖼️ Conference posters & talks
-
-<p align="center">
-  <a href="https://amy95031.github.io/conference-posters/">
-    <img src="https://raw.githubusercontent.com/amy95031/conference-posters/main/gallery-preview.gif" alt="Conference poster gallery" width="720" />
-  </a>
-  <br/>
-  <sub>8 posters + 1 oral talk · WCAP 2026 · ICED 2025 · ASHA 2024 · ICP 2024 · APA 2023 — <a href="https://amy95031.github.io/conference-posters/"><b>open the interactive gallery →</b></a></sub>
-</p>
-
-### 🏆 Honors & certifications
-
-<p>
-  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/2026-UCLA%20BME%20%C3%97%20Quantum%20Elite%20Program-C9702A?style=flat-square" alt="UCLA" /></a>
-  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/2023-MOE%20Taiwan%20Scholarship-C9702A?style=flat-square" alt="MOE scholarship" /></a>
-  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/2019-National%20Champion%2C%20Sign%20Language%20Song-C9702A?style=flat-square" alt="Sign language" /></a>
-  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/2017-Best%20Oral%20Presentation%2C%20Kanagawa-C9702A?style=flat-square" alt="Kanagawa" /></a>
-</p>
-<p>
-  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/Harvard%20Medical%20School-Clinical%20Care%20for%20Autistic%20Adults-A51C30?style=flat-square" alt="Harvard" /></a>
-  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/Johns%20Hopkins-Aging%2C%20Hearing%20%26%20Public%20Health%20Fellow-002D72?style=flat-square" alt="JHU" /></a>
-  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/MoCA-Certified%20Rater-1B75BB?style=flat-square" alt="MoCA" /></a>
-  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/Google-Gemini%20Certified%20Educator-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" /></a>
-  <a href="https://amy95031.github.io/honors-certifications/"><img src="https://img.shields.io/badge/UW%E2%80%93Madison-Visiting%20Student%202023%E2%80%9324-C5050C?style=flat-square" alt="UW-Madison" /></a>
-</p>
-<sub>Every badge links to the <a href="https://amy95031.github.io/honors-certifications/"><b>certificate wall →</b></a> with the original certificates.</sub>
-
-### 🛠️ Toolbox
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode&theme=dark" alt="skills" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MNE--Python-1F5C99?style=flat-square" alt="MNE-Python" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" alt="uv" />
-  <img src="https://img.shields.io/badge/STATA-1A5F91?style=flat-square" alt="STATA" />
-  <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square" alt="SPSS" />
-  <img src="https://img.shields.io/badge/SAS-0766D1?style=flat-square" alt="SAS" />
-  <img src="https://img.shields.io/badge/RevMan-555555?style=flat-square" alt="RevMan" />
-  <img src="https://img.shields.io/badge/TriNetX-0B7A75?style=flat-square" alt="TriNetX" />
-  <img src="https://img.shields.io/badge/Praat-6A5ACD?style=flat-square" alt="Praat" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
-</p>
-
-### 🐍 Contribution activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amy95031/amy95031/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amy95031/amy95031/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/amy95031/amy95031/output/github-snake.svg" />
-</picture>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" alt="footer" width="100%" />
-</p>
+mipix66@gmail.com · [Website](https://amy95031.github.io/) · [ORCID](https://orcid.org/0000-0002-3017-9916) · [LinkedIn](https://www.linkedin.com/in/millieliu-041858135)
